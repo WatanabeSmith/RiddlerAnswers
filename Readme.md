@@ -1,3 +1,7 @@
+![Final Visualization](https://raw.githubusercontent.com/WatanabeSmith/RiddlerAnswers/master/avg_result.jpg "Roll distribution by roll type")
+
+![Final Visualization](https://raw.githubusercontent.com/WatanabeSmith/RiddlerAnswers/master/odds_of_x.jpg "Odds to roll X or greater by roll type")
+
 ---
 title: "Advantage_disadvantage"
 output: html_document
